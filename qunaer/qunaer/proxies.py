@@ -1,0 +1,6 @@
+
+
+PROXIES = {
+    'http': [],
+    'https': []
+}
